@@ -4,3 +4,7 @@ git config --global user.email anagiovanni66@gmail.com
 npx create-expo-app@latest StickerSmash
 
 cd StickerSmash
+
+npm run reset-project
+
+rnfs

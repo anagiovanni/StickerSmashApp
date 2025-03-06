@@ -8,3 +8,10 @@ cd StickerSmash
 npm run reset-project
 
 rnfs
+
+npx expo start --localhost --android
+
+npx expo install expo-image
+
+npm i
+

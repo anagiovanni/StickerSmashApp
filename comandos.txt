@@ -14,4 +14,3 @@ npx expo start --localhost --android
 npx expo install expo-image
 
 npm i
-

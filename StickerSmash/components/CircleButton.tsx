@@ -22,7 +22,7 @@ const styles = StyleSheet.create({
         height: 84,
         marginHorizontal: 60,
         borderWidth: 4,
-        borderColor: '#ffd33d',
+        borderColor: '#a1d1d3',
         padding: 3,
         borderRadius: 42,
     },
@@ -31,6 +31,6 @@ const styles = StyleSheet.create({
         justifyContent: 'center',
         alignItems: 'center',
         borderRadius: 42,
-        backgroundColor: '#fff'
+        backgroundColor: '#b9ddde'
     }
 })

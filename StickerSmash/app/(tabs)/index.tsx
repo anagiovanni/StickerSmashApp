@@ -183,7 +183,7 @@ const styles = StyleSheet.create({
   footerContainer: {
     flex: 1 / 3,
     alignItems: 'center',
-    justifyContent: 'center'
+    justifyContent: 'center',
   },
   optionsContainer: {
     position: 'absolute',
